@@ -1,1 +1,1 @@
-Hello gys we want to make a lua os for our game.
+Hello folks we proudly introduce the lua-os for Timeline.
